@@ -1,0 +1,3 @@
+[submodule "vendors/celery-php"]
+	path = vendors/celery-php
+	url = https://github.com/spsoit/celery-php.git
