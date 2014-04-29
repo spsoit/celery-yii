@@ -1,3 +1,0 @@
-[submodule "vendors/celery-php"]
-	path = vendors/celery-php
-	url = git://github.com/gjedeer/celery-php
